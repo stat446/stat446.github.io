@@ -1,55 +1,53 @@
-## Course Description
+### Course Description
 
-Fundamentals of Bayesian inference, methods of Bayesian data analysis, computational methods for posterior simulation, fundamentals of hierarchical modeling.
+This course provides an overview of design and estimation for statistical sampling. Computational procedures in the class will be conducted using R and/or SAS.
 
-## Learning Outcomes:
-At the end of the course students will be able to:
 
-- Demonstrate a basic understanding of the fundamental concepts underlying Bayesian inference
-- Demonstrate connections and make comparisons among frequentist, likelihood, and Bayesian methods, both from a practical and philosophical perspective
-- Demonstrate an understanding of the complex issues involved in specifying prior distributions and recognize there is no default prior
-- Demonstrate ability to program methods for taking samples from posterior distributions, including rejection sampling, Metropolis-Hastings algorithm, and Gibbs sampling
-- Understand the concepts underlying the computation approaches, including Hamiltonian Monte Carlo techniques
-- Demonstrate ability to use available and common software to carry out Bayesian data analysis
-- Demonstrate ability to write about conceptual issues, describe and justify assumptions and decisions, and interpret results
-- Demonstrate ability to use creative and appropriate graphics to display raw data and results from statistical models
-- Demonstrate ability to write down sophisticated models with standard notation, recognizing there are multiple ways to write the same analysis
-- Explain the idea behind multi-level, or hierarchical, models and how they relate to models used in traditional linear models classes
-- Demonstrate an understanding of posterior predictive checks, as well as the ability to use them meaningfully in practice
-- Demonstrate a willingness to think about and discuss the foundations of statistical inference
-## Prerequisites
+### Learning Outcomes:
+Upon successful completion of this course, students will:
 
-- Required: STAT 422 or STAT 502, and STAT 506
-- Preferred: extensive experience with R
+- Learn the classical sampling survey procedures applied to finite populations (including simple random sampling, stratified sampling, cluster sampling, and systematic sampling).
 
-## Textbooks
+- Learn sampling methods that utilize unequal probability sampling.
 
-- *A First Course in Bayesian Statistical Methods*, by Peter Hoff
-- *Bayesian Data Analysis (3rd Edition)*, by Gelman, Carlin, Stern, & Rubin (Optional)
+- Learn ratio and regression analytical methods that utilize auxiliary variable information.
 
-## Additional Resources
-Analysis, data visualization, and version control procedures will be implemented with:
+- Learn bootstrap resampling estimation methods.
+
+- Gain practical experience via proposing and  running a sampling design, and presenting the results in a statistical report and formal class presentation.
+
+### Prerequisites
+
+- Required: One of: STAT 217Q, STAT 332, or STAT 401
+
+### Textbooks
+
+- *Sampling: Design and Analysis, second edition*, by Sharon Lohr.
+Note: the first edition acceptable
+
+### Additional Resources
+Analysis and data visualization will be implemented with:
 
 - R / R Studio
-- JAGS
-- Stan
-- Git / Github
 
-## Course Policies
+### Course Policies
 
 
 #### Grading Policy
 
 - **10%** of your grade will be determined by weekly quizzes to be completed prior to class on Mondays.
 
-- **30%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+- **15%** of your grade will be determined by homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+
+- **15%** of your grade will be determined by lab assignments. Labs will be in-class group assignments. Often there
+will be a large computational element in the labs.
+
 
 - **20%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including some short mathematical derivations. The take home portions will focus on analysis of data and implementation of Bayesian computational methods. 
 
 - **20%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including some short mathematical derivations. The take home portions will focus on analysis of data and implementation of Bayesian computational methods. 
 
-- **20%** of your grade will be determined by a project. The project will be a case study where students will apply Bayesian methods to a data set agreed upon by the instructor and student.
-
+- **20%** of your grade will be determined by a project. There are two options for the project: carryout a sampling scheme to address a research question of your choosing or conduct a sampling scheme on a synthetic example. For original research, a proposal will be due no later than October 31. The final project will consist of written summary including an overview of the sampling design, and analysis of the data, and a summary of the results, as well as an in-class presentation.
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
@@ -58,11 +56,24 @@ In this class students are encouraged to collaborate on homework assignments, bu
 
 
 ####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others' misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
 
 #### Disabilities Policy
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. Make sure to include all that relevant information here.
+
+### Course Outline
+
+The course will cover the following topics:
+
+1. Introduction to sampling and scope of interest,
+2. Simple random sampling,
+3. Stratification,
+4. Bootstrap method,
+5. Ratio and regression estimators,
+6. Cluster sampling,
+7. Sampling with unequal probability, and
+8. Other topics based on student interest as time permits (including capture-recapture procedures, ...).
 
 ### Tentative Class Schedule
 
