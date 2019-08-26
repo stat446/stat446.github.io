@@ -1,7 +1,7 @@
 ### Tentative Class Schedule
 
 #### Week 1: Introductions
-- Monday August 26: Introductions & Course Overview: [Weekly Lecture Notes](https://stat446.github.io/Lecture1/)
+- Monday August 26: Introductions & Course Overview: [Weekly Lecture Notes](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.pdf)
 - Wednesday August 28: Chapter 1 - Introduction to Sampling
 - Friday August 30: Chapter 1 - Estimation Concepts
 
