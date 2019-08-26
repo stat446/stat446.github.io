@@ -1,3 +1,80 @@
+### Tentative Class Schedule
+
+##### Week 1: Introductions
+- Monday August 26: Introductions & Course Overview
+- Wednesday August 28: Chapter 1 - Introduction to Sampling
+- Friday August 30: Chapter 1 - Estimation Concepts 
+
+##### Week 2: Chapter 1
+- Monday September 2: Labor Day, NO CLASS
+- Wednesday September 4: Chapter 1 - Selection Bias, Survey Errors, Survey Design
+- Friday September 6: Lab 1
+
+##### Week 3: Sampling Distributions and R
+- Monday September 9: Chapter 2 - sampling distribution, sampling using R, estimates and estimators, expected values, bias, etc..
+- Wednesday September 11: Chapter 2 continued and R tutorial 
+- Friday September 13: Lab 2
+
+##### Week 4: Statistical Basics
+- Monday September 16: Mean, bias, variance, Confidence Intervals
+- Wednesday September 18: Confidence Intervals & Sample Size Estimation
+- Friday September 20: Lab 3
+
+##### Week 5: Stratified Sampling
+- Monday September 23: Stratified Sampling
+- Wednesday September 25: Stratified Sampling
+- Friday September 27: Lab 4
+
+##### Week 6: Bootstrap Sampling
+- Monday September 30: Bootstrap Sampling
+- Wednesday October 2: Bootstrap Sampling
+- Friday October 4: Lab 5
+
+##### Week 7: Midterm Week
+- Monday October 7: 
+- Wednesday October 9:
+- Friday October 11: 
+    
+##### Week 8: Ratio & Regression Estimation
+- Monday October 14: Ratio & Regression Estimation
+- Wednesday October 16: Ratio & Regression Estimation
+- Friday October 18: Lab 6    
+
+##### Week 9: Ratio & Regression Estimation
+- Monday October 21: Ratio & Regression Estimation
+- Wednesday October 23: Ratio & Regression Estimation
+- Friday October 25: Lab 7    
+
+##### Week 10: Cluster Sampling
+- Monday October 28: Cluster Sampling 
+- Wednesday October 30: Cluster Sampling
+- Friday November 1: Lab 8    
+
+##### Week 11: Sampling with Unequal Probabilities
+- Monday November 4: Cluster Sampling
+- Wednesday November 6: Sampling with unequal probabilities
+- Friday November 8: Lab 9    
+
+##### Week 12: GLMs and Metropolis-Hastings 
+- Monday November 11: No Class Veteran's Day
+- Wednesday November 13: Sampling with unequal probabilities
+- Friday November 15: Lab 10  
+
+##### Week 13:  
+- Monday November 18: 
+- Wednesday November 20:
+- Friday November 22: 
+
+##### Week 14:  
+- Monday November 25: 
+- Wednesday November 27: Thanksgiving Break NO CLASS
+- Friday November 29: Thanksgiving Break NO CLASS  
+
+##### Week 15: Presentations / Exam
+- Monday December 2: Presentations
+- Wednesday December 4: Presentations
+- Friday December 6: Presentations
+
 ### Course Description
 
 This course provides an overview of design and estimation for statistical sampling. Computational procedures in the class will be conducted using R and/or SAS.
@@ -75,79 +152,3 @@ The course will cover the following topics:
 7. Sampling with unequal probability, and
 8. Other topics based on student interest as time permits (including capture-recapture procedures, ...).
 
-### Tentative Class Schedule
-
-##### Week 1: Introductions
-- Monday August 26: Introductions & Course Overview
-- Wednesday August 28:Chapter 1 - Introduction to Sampling
-- Friday August 30: Chapter 1 - Estimation Concepts 
-
-##### Week 2: Chapter 1
-- Monday September 2: Labor Day, NO CLASS
-- Wednesday September 4: Chapter 1 - Selection Bias, Survey Errors, Survey Design
-- Friday September 6: Lab 1
-
-##### Week 3: Sampling Distributions and R
-- Monday September 9: Chapter 2 - sampling distribution, sampling using R, estimates and estimators, expected values, bias, etc..
-- Wednesday September 11: Chapter 2 continued and R tutorial 
-- Friday September 13: Lab 2
-
-##### Week 4: Statistical Basics
-- Monday September 16: Mean, bias, variance, Confidence Intervals
-- Wednesday September 18: Confidence Intervals & Sample Size Estimation
-- Friday September 20: Lab 3
-
-##### Week 5: Stratified Sampling
-- Monday September 23: Stratified Sampling
-- Wednesday September 25: Stratified Sampling
-- Friday September 27: Lab 4
-
-##### Week 6: Bootstrap Sampling
-- Monday September 30: Bootstrap Sampling
-- Wednesday October 2: Bootstrap Sampling
-- Friday October 4: Lab 5
-
-##### Week 7: Midterm Week
-- Monday October 7: 
-- Wednesday October 9:
-- Friday October 11: 
-    
-##### Week 8: Ratio & Regression Estimation
-- Monday October 14: Ratio & Regression Estimation
-- Wednesday October 16: Ratio & Regression Estimation
-- Friday October 18: Lab 6    
-
-##### Week 9: Ratio & Regression Estimation
-- Monday October 21: Ratio & Regression Estimation
-- Wednesday October 23: Ratio & Regression Estimation
-- Friday October 25: Lab 7    
-
-##### Week 10: Cluster Sampling
-- Monday October 28: Cluster Sampling 
-- Wednesday October 30: Cluster Sampling
-- Friday November 1: Lab 8    
-
-##### Week 11: Sampling with Unequal Probabilities
-- Monday November 4: Cluster Sampling
-- Wednesday November 6: Sampling with unequal probabilities
-- Friday November 8: Lab 9    
-
-##### Week 12: GLMs and Metropolis-Hastings 
-- Monday November 11: No Class Veteran's Day
-- Wednesday November 13: Sampling with unequal probabilities
-- Friday November 15: Lab 10  
-
-##### Week 13:  
-- Monday November 18: 
-- Wednesday November 20:
-- Friday November 22: 
-
-##### Week 14:  
-- Monday November 25: 
-- Wednesday November 27: Thanksgiving Break NO CLASS
-- Friday November 29: Thanksgiving Break NO CLASS  
-
-##### Week 15: Presentations / Exam
-- Monday December 2: Presentations
-- Wednesday December 4: Presentations
-- Friday December 6: Presentations
