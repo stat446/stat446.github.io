@@ -1,35 +1,64 @@
 ### Tentative Class Schedule
 
 #### Week 1: Introductions
-- Monday August 26: Introductions & Course Overview: [Weekly Lecture Notes](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.pdf)
-- Wednesday August 28: Chapter 1 - Introduction to Sampling
-- Friday August 30: Chapter 1 - Estimation Concepts
-
+- Monday August 26 
+    - Introductions & Course Overview 
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.pdf)
+- Wednesday August 28 
+    - Chapter 1 - Introduction to Sampling
+- Friday August 30
+    - Estimation Concepts
 
 #### Week 2: Chapter 1
 - Monday September 2: Labor Day, NO CLASS
-- Wednesday September 4: Chapter 1 - Selection Bias, Survey Errors, Survey Design
-- Friday September 6: Lab 1
+- Wednesday September 4
+    - Selection Bias, Survey Errors, Survey Design
+    - Quiz 2 due
+    - Weekly Notes
+- Friday September 6 
+    - Lab 1
+    - HW 1 due
 
 #### Week 3: Sampling Distributions and R
-- Monday September 9: Chapter 2 - sampling distribution, sampling using R, estimates and estimators, expected values, bias, etc..
-- Wednesday September 11: Chapter 2 continued and R tutorial 
-- Friday September 13: Lab 2
+- Monday September 9 
+    - Chapter 2 - sampling distribution, sampling using R, estimates and estimators, expected values, bias, etc..
+    - Quiz 3 due
+    - Weekly Notes
+- Wednesday September 11
+    - Chapter 2 continued and R tutorial 
+- Friday September 13 
+    - Lab 2
 
 #### Week 4: Statistical Basics
-- Monday September 16: Mean, bias, variance, Confidence Intervals
-- Wednesday September 18: Confidence Intervals & Sample Size Estimation
-- Friday September 20: Lab 3
+- Monday September 16
+    - Mean, bias, variance, Confidence Intervals
+    - Quiz 4 due
+    - Weekly Notes
+- Wednesday September 18
+    - Confidence Intervals & Sample Size Estimation
+- Friday September 20
+    - Lab 3
+    - HW 2 due
 
 #### Week 5: Stratified Sampling
-- Monday September 23: Stratified Sampling
-- Wednesday September 25: Stratified Sampling
-- Friday September 27: Lab 4
+- Monday September 23
+    - Stratified Sampling
+    - Quiz 5 due
+    - Weekly Notes
+- Wednesday September 25
+    - Stratified Sampling
+- Friday September 27
+    - Lab 4
 
 #### Week 6: Bootstrap Sampling
-- Monday September 30: Bootstrap Sampling
-- Wednesday October 2: Bootstrap Sampling
-- Friday October 4: Lab 5
+- Monday September 30
+    - Bootstrap Sampling
+    - Quiz 6 due
+- Wednesday October 2
+    - Bootstrap Sampling
+- Friday October 4
+    - Lab 5
+    - HW 3 due
 
 #### Week 7: Midterm Week
 - Monday October 7: 
