@@ -13,7 +13,7 @@
 - Monday September 2: Labor Day, NO CLASS
 - Wednesday September 4
     - Selection Bias, Survey Errors, Survey Design
-    - Quiz 2 due
+    - [Quiz 2 due](https://stat446.github.io/Quiz2/)
     - Weekly Notes
 - Friday September 6 
     - Lab 1
