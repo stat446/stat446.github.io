@@ -3,7 +3,7 @@
 #### Week 1: Introductions
 - Monday August 26 
     - Introductions & Course Overview 
-    - [Weekly Lecture Notes](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.pdf)
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.pdf) [R Markdown source code](https://github.com/stat446/Lecture1/blob/master/Lecture1_2019.Rmd)
 - Wednesday August 28 
     - Chapter 1 - Introduction to Sampling
 - Friday August 30
