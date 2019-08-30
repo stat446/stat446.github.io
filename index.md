@@ -14,7 +14,7 @@
 - Wednesday September 4
     - Selection Bias, Survey Errors, Survey Design
     - [Quiz 2 due](https://stat446.github.io/Quiz2/)
-    - Weekly Notes
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture2/blob/master/Lecture2_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture2/blob/master/Lecture2_2019.Rmd))
 - Friday September 6 
     - Lab 1
 
