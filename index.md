@@ -16,7 +16,7 @@
     - [Quiz 2 due](https://stat446.github.io/Quiz2/)
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture2/blob/master/Lecture2_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture2/blob/master/Lecture2_2019.Rmd))
 - Friday September 6 
-    - Lab 1
+    - [Lab 1](https://stat446.github.io/Lab1/) ([R Markdown source code](https://github.com/stat446/Lab1/blob/master/Lab1_2009.Rmd))
 
 #### Week 3: Sampling Distributions and R
 - Monday September 9 
