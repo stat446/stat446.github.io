@@ -17,7 +17,6 @@
     - Weekly Notes
 - Friday September 6 
     - Lab 1
-    - HW 1 due
 
 #### Week 3: Sampling Distributions and R
 - Monday September 9 
@@ -28,6 +27,7 @@
     - Chapter 2 continued and R tutorial 
 - Friday September 13 
     - Lab 2
+    - HW 1 due
 
 #### Week 4: Statistical Basics
 - Monday September 16
