@@ -27,7 +27,7 @@
     - sampling distribution, sampling using R, estimates and estimators, expected values, bias,
 - Friday September 13 
     - Lab 2
-    - HW 1 due
+    - [HW 1 due](https://stat446.github.io/HW1/) ([R Markdown source code](https://github.com/stat446/HW1/blob/master/HW1_446.Rmd))
 
 #### Week 4: Statistical Basics
 - Monday September 16
