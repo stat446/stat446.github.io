@@ -20,11 +20,11 @@
 
 #### Week 3: Sampling Distributions and R
 - Monday September 9 
-    - Chapter 2 - sampling distribution, sampling using R, estimates and estimators, expected values, bias, etc..
+    - Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
     - Quiz 3 due
     - Weekly Notes
 - Wednesday September 11
-    - Chapter 2 continued and R tutorial 
+    - sampling distribution, sampling using R, estimates and estimators, expected values, bias,
 - Friday September 13 
     - Lab 2
     - HW 1 due
