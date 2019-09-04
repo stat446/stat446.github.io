@@ -20,7 +20,7 @@
 
 #### Week 3: Sampling Distributions and R
 - Monday September 9 
-    - Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
+    - Selection Bias, Survey Errors, Survey Design/ Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
     - [Quiz 3 due](https://stat446.github.io/Quiz3/)
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture3/blob/master/Lecture3_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture3/blob/master/Lecture3_2019.Rmd))
 - Wednesday September 11
