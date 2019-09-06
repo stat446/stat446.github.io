@@ -31,9 +31,9 @@
 
 #### Week 4: Statistical Basics
 - Monday September 16
-    - Mean, bias, variance, Confidence Intervals
+    - Variance, Confidence Intervals
     - Quiz 4 due
-    - Weekly Notes
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.Rmd))
 - Wednesday September 18
     - Confidence Intervals & Sample Size Estimation
 - Friday September 20
@@ -42,7 +42,7 @@
 
 #### Week 5: Stratified Sampling
 - Monday September 23
-    - Stratified Sampling
+    - Sample Size Estimation / Stratified Sampling
     - Quiz 5 due
     - Weekly Notes
 - Wednesday September 25
@@ -122,6 +122,11 @@ Upon successful completion of this course, students will:
 - Learn bootstrap resampling estimation methods.
 
 - Gain practical experience via proposing and  running a sampling design, and presenting the results in a statistical report and formal class presentation.
+
+### Office Hours
+
+- M: 2 - 3
+- WF 12 - 1
 
 ### Prerequisites
 
