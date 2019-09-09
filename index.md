@@ -32,7 +32,7 @@
 #### Week 4: Statistical Basics
 - Monday September 16
     - sampling distribution, sampling using R, estimates and estimators, expected values, bias, (Chapter 2 continued)
-    - Quiz 4 due
+    - [Quiz 4 due](https://stat446.github.io/Quiz4/)
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.Rmd))
 - Wednesday September 18
     - Variance, Confidence Intervals 
