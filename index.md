@@ -20,29 +20,29 @@
 
 #### Week 3: Sampling Distributions and R
 - Monday September 9 
-    - Selection Bias, Survey Errors, Survey Design/ Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
+    - Selection Bias, Survey Errors, Survey Design
     - [Quiz 3 due](https://stat446.github.io/Quiz3/)
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture3/blob/master/Lecture3_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture3/blob/master/Lecture3_2019.Rmd))
 - Wednesday September 11
-    - sampling distribution, sampling using R, estimates and estimators, expected values, bias,
+    -  Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
 - Friday September 13 
     - [Lab 2](https://stat446.github.io/Lab2/) ([R Markdown source code](https://github.com/stat446/Lab2/blob/master/Lab2_2009.Rmd))
     - [HW 1 due](https://stat446.github.io/HW1/) ([R Markdown source code](https://github.com/stat446/HW1/blob/master/HW1_446.Rmd))
 
 #### Week 4: Statistical Basics
 - Monday September 16
-    - Variance, Confidence Intervals
+    - sampling distribution, sampling using R, estimates and estimators, expected values, bias, (Chapter 2 continued)
     - Quiz 4 due
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture4/blob/master/Lecture4_2019.Rmd))
 - Wednesday September 18
-    - Confidence Intervals & Sample Size Estimation
+    - Variance, Confidence Intervals 
 - Friday September 20
     - Lab 3
     - HW 2 due
 
 #### Week 5: Stratified Sampling
 - Monday September 23
-    - Sample Size Estimation / Stratified Sampling
+    - Sample Size Estimation 
     - Quiz 5 due
     - Weekly Notes
 - Wednesday September 25
@@ -52,7 +52,7 @@
 
 #### Week 6: Bootstrap Sampling
 - Monday September 30
-    - Bootstrap Sampling
+    - Stratified Sampling 
     - Quiz 6 due
 - Wednesday October 2
     - Bootstrap Sampling
@@ -61,9 +61,9 @@
     - HW 3 due
 
 #### Week 7: Midterm Week
-- Monday October 7: 
-- Wednesday October 9:
-- Friday October 11: 
+- Monday October 7: No Class (work on Take Home)
+- Wednesday October 9: In Class Midterm
+- Friday October 11: No Class (MT ASA Chapter Meeting)
     
 #### Week 8: Ratio & Regression Estimation
 - Monday October 14: Ratio & Regression Estimation
@@ -85,7 +85,7 @@
 - Wednesday November 6: Sampling with unequal probabilities
 - Friday November 8: Lab 9    
 
-#### Week 12: GLMs and Metropolis-Hastings 
+#### Week 12: 
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Sampling with unequal probabilities
 - Friday November 15: Lab 10  
@@ -100,10 +100,14 @@
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
-#### Week 15: Presentations / Exam
+#### Week 15: Presentations 
 - Monday December 2: Presentations
 - Wednesday December 4: Presentations
 - Friday December 6: Presentations
+
+#### Week 15: Final Exam Week
+- Thursday December 12, 4:00 - 5:50: In Class Final 
+
 
 ### Course Description
 
