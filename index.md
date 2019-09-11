@@ -37,7 +37,7 @@
 - Wednesday September 18
     - Variance, Confidence Intervals 
 - Friday September 20
-    - Lab 3
+    - [Lab 3](https://stat446.github.io/Lab3/) ([R Markdown source code](https://github.com/stat446/Lab3/blob/master/Lab3_2009.Rmd))
     - HW 2 due
 
 #### Week 5: Stratified Sampling
