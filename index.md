@@ -26,7 +26,7 @@
 - Wednesday September 11
     -  Chapter 2 - Types of Probability Samples, Framework for Probability Sampling,  etc..
 - Friday September 13 
-    - [Lab 2](https://stat446.github.io/Lab2/) ([R Markdown source code](https://github.com/stat446/Lab2/blob/master/Lab2_2009.Rmd))
+    - [Lab 2](https://stat446.github.io/Lab2/) ([R Markdown source code](https://github.com/stat446/Lab2/blob/master/Lab2_2009.Rmd)) ([Key](https://github.com/stat446/Lab2/blob/master/Lab2key_2009.pdf))
     - [HW 1 due](https://stat446.github.io/HW1/) ([R Markdown source code](https://github.com/stat446/HW1/blob/master/HW1_446.Rmd))
 
 #### Week 4: Statistical Basics
