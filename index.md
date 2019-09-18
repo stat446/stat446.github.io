@@ -40,22 +40,22 @@
     - [Lab 3](https://stat446.github.io/Lab3/) ([R Markdown source code](https://github.com/stat446/Lab3/blob/master/Lab3_2009.Rmd))
     - [HW 2 due](https://stat446.github.io/HW2/) ([R Markdown source code](https://github.com/stat446/HW2/blob/master/HW2_446.Rmd))
 
-#### Week 5: Stratified Sampling
+#### Week 5: Confidence Intervals and Sample Size
 - Monday September 23
-    - Sample Size Estimation 
+    - Confidence Intervals
     - Quiz 5 due
-    - Weekly Notes
+    - Weekly Notes (continued from week 4)
 - Wednesday September 25
-    - Stratified Sampling
+    - Sample Size Calculations
 - Friday September 27
     - Lab 4
 
-#### Week 6: Bootstrap Sampling
+#### Week 6: Stratified Sampling
 - Monday September 30
     - Stratified Sampling 
     - Quiz 6 due
 - Wednesday October 2
-    - Bootstrap Sampling
+    - Stratified Sampling
 - Friday October 4
     - Lab 5
     - HW 3 due
@@ -90,7 +90,7 @@
 - Wednesday November 13: Sampling with unequal probabilities
 - Friday November 15: Lab 10  
 
-#### Week 13:  
+#### Week 13: Bootstrap  
 - Monday November 18: 
 - Wednesday November 20:
 - Friday November 22: 
