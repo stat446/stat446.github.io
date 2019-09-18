@@ -43,7 +43,7 @@
 #### Week 5: Confidence Intervals and Sample Size
 - Monday September 23
     - Confidence Intervals
-    - Quiz 5 due
+    - [Quiz 5 due](https://stat446.github.io/Quiz5/)
     - Weekly Notes (continued from week 4)
 - Wednesday September 25
     - Sample Size Calculations
