@@ -48,7 +48,7 @@
 - Wednesday September 25
     - Sample Size Calculations
 - Friday September 27
-    - Lab 4
+    - [Lab 4](https://stat446.github.io/Lab4/) ([R Markdown source code](https://github.com/stat446/Lab4/blob/master/Lab4_2019.Rmd))
 
 #### Week 6: Stratified Sampling
 - Monday September 30
