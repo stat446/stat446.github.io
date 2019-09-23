@@ -37,7 +37,7 @@
 - Wednesday September 18
     - Variance, Confidence Intervals 
 - Friday September 20
-    - [Lab 3](https://stat446.github.io/Lab3/) ([R Markdown source code](https://github.com/stat446/Lab3/blob/master/Lab3_2009.Rmd))
+    - [Lab 3](https://stat446.github.io/Lab3/) ([R Markdown source code](https://github.com/stat446/Lab3/blob/master/Lab3_2009.Rmd)) ([Partial Key](https://github.com/stat446/Lab3/blob/master/Lab3key_2019.pdf))
     - [HW 2 due](https://stat446.github.io/HW2/) ([R Markdown source code](https://github.com/stat446/HW2/blob/master/HW2_446.Rmd))
 
 #### Week 5: Confidence Intervals and Sample Size
