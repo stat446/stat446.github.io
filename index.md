@@ -40,7 +40,7 @@
     - [Lab 3](https://stat446.github.io/Lab3/) ([R Markdown source code](https://github.com/stat446/Lab3/blob/master/Lab3_2009.Rmd)) ([Partial Key](https://github.com/stat446/Lab3/blob/master/Lab3key_2019.pdf))
     - [HW 2 due](https://stat446.github.io/HW2/) ([R Markdown source code](https://github.com/stat446/HW2/blob/master/HW2_446.Rmd))
 
-#### Week 5: Confidence Intervals and Sample Size
+#### Week 5: Confidence Intervals 
 - Monday September 23
     - Confidence Intervals
     - [Quiz 5 due](https://stat446.github.io/Quiz5/)
@@ -48,17 +48,16 @@
 - Wednesday September 25
     - Sample Size Calculations
 - Friday September 27
-    - [Lab 4](https://stat446.github.io/Lab4/) ([R Markdown source code](https://github.com/stat446/Lab4/blob/master/Lab4_2019.Rmd))
+    - Sample Size Calculations/ Finish Lab 3
 
-#### Week 6: Stratified Sampling
+#### Week 6: Sample Size Calculations
 - Monday September 30
-    - Stratified Sampling 
-    - [Weekly Lecture Notes](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.Rmd))
+    - Sample Size Calculations 
     - Quiz 6 due
 - Wednesday October 2
-    - Stratified Sampling
+    - [Lab 4](https://stat446.github.io/Lab4/) ([R Markdown source code](https://github.com/stat446/Lab4/blob/master/Lab4_2019.Rmd))
 - Friday October 4
-    - Lab 5
+    - Midterm Review
     - HW 3 due
 
 #### Week 7: Midterm Week
@@ -66,9 +65,9 @@
 - Wednesday October 9: In Class Midterm
 - Friday October 11: No Class (MT ASA Chapter Meeting)
     
-#### Week 8: Ratio & Regression Estimation
-- Monday October 14: Ratio & Regression Estimation
-- Wednesday October 16: Ratio & Regression Estimation
+#### Week 8: Stratified Sampling
+- Monday October 14: 
+- Wednesday October 16: 
 - Friday October 18: Lab 6    
 
 #### Week 9: Ratio & Regression Estimation
@@ -76,19 +75,19 @@
 - Wednesday October 23: Ratio & Regression Estimation
 - Friday October 25: Lab 7    
 
-#### Week 10: Cluster Sampling
-- Monday October 28: Cluster Sampling 
-- Wednesday October 30: Cluster Sampling
+#### Week 10: Ratio & Regression Estimation
+- Monday October 28: 
+- Wednesday October 30: 
 - Friday November 1: Lab 8    
 
-#### Week 11: Sampling with Unequal Probabilities
-- Monday November 4: Cluster Sampling
-- Wednesday November 6: Sampling with unequal probabilities
+#### Week 11: Cluster Sampling
+- Monday November 4: 
+- Wednesday November 6: 
 - Friday November 8: Lab 9    
 
-#### Week 12: 
+#### Week 12: Sampling with Unequal Probabilities
 - Monday November 11: No Class Veteran's Day
-- Wednesday November 13: Sampling with unequal probabilities
+- Wednesday November 13: 
 - Friday November 15: Lab 10  
 
 #### Week 13: Bootstrap  
