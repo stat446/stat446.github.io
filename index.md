@@ -53,6 +53,7 @@
 #### Week 6: Stratified Sampling
 - Monday September 30
     - Stratified Sampling 
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.Rmd))
     - Quiz 6 due
 - Wednesday October 2
     - Stratified Sampling
