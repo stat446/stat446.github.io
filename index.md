@@ -66,7 +66,9 @@
 - Friday October 11: No Class (MT ASA Chapter Meeting)
     
 #### Week 8: Stratified Sampling
-- Monday October 14: 
+- Monday October 14:
+    - No Quiz
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.Rmd)
 - Wednesday October 16: 
 - Friday October 18: Lab 6    
 
