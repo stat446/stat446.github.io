@@ -53,7 +53,7 @@
 #### Week 6: Sample Size Calculations
 - Monday September 30
     - Sample Size Calculations 
-    - Quiz 6 due
+    - [Quiz 6 due](https://stat446.github.io/Quiz6/)
 - Wednesday October 2
     - [Lab 4](https://stat446.github.io/Lab4/) ([R Markdown source code](https://github.com/stat446/Lab4/blob/master/Lab4_2019.Rmd))
 - Friday October 4
