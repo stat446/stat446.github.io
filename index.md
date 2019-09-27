@@ -147,6 +147,9 @@ Note: the first edition acceptable
 Analysis and data visualization will be implemented with:
 
 - R / R Studio
+- [STAT 408 Materials](http://math.montana.edu/ahoegh/teaching/stat408/)
+- [R Studio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
+- [R for Data Science](https://r4ds.had.co.nz)
 
 ### Course Policies
 
