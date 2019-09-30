@@ -57,7 +57,8 @@
 - Wednesday October 2
     - [Lab 4](https://stat446.github.io/Lab4/) ([R Markdown source code](https://github.com/stat446/Lab4/blob/master/Lab4_2019.Rmd))
 - Friday October 4
-    - Midterm Review
+    - [Midterm Review](https://github.com/stat446/oldexams/blob/master/MidtermStudyGuide.pdf)
+    - Past Exam: [In class](https://github.com/stat446/oldexams/blob/master/Inclass_midterm.pdf) [Take Home](https://github.com/stat446/oldexams/blob/master/Takehome_midterm.pdf)
     - [HW 3 due](https://stat446.github.io/HW3/) ([R Markdown source code](https://github.com/stat446/HW3/blob/master/HW3_446.Rmd))
 
 #### Week 7: Midterm Week
