@@ -60,11 +60,13 @@
     - [Midterm Review](https://github.com/stat446/oldexams/blob/master/MidtermStudyGuide.pdf)
     - Past Exam: [In class](https://github.com/stat446/oldexams/blob/master/Inclass_midterm.pdf) [Take Home](https://github.com/stat446/oldexams/blob/master/Takehome_midterm.pdf)
     - [HW 3 due](https://stat446.github.io/HW3/) ([R Markdown source code](https://github.com/stat446/HW3/blob/master/HW3_446.Rmd))
+    - [Midterm Review Video](https://montana.techsmithrelay.com/HAwO)
 
 #### Week 7: Midterm Week
 - Monday October 7: No Class (work on Take Home)
 - Wednesday October 9: In Class Midterm
 - Friday October 11: No Class (MT ASA Chapter Meeting)
+    - [Midterm Take Home Due 11:59 PM](https://github.com/stat446/midterm/blob/master/Midterm_F2019.pdf) ([R Markdown Source Code](https://github.com/stat446/midterm/blob/master/Midterm_F2019.Rmd))
     
 #### Week 8: Stratified Sampling
 - Monday October 14:
