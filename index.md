@@ -71,29 +71,30 @@
 #### Week 8: Stratified Sampling
 - Monday October 14:
     - No Quiz
-    - [Weekly Lecture Notes](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.Rmd)
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture5/blob/master/Lecture5_2019.Rmd))
 - Wednesday October 16: 
-- Friday October 18: Lab 6    
+- Friday October 18: 
+    - [Lab 5](https://stat446.github.io/Lab5/) ([R Markdown source code](https://github.com/stat446/Lab5/blob/master/Lab5_2019.Rmd))  
 
 #### Week 9: Ratio & Regression Estimation
 - Monday October 21: Ratio & Regression Estimation
 - Wednesday October 23: Ratio & Regression Estimation
-- Friday October 25: Lab 7    
+- Friday October 25: Lab 6    
 
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28: 
 - Wednesday October 30: 
-- Friday November 1: Lab 8    
+- Friday November 1: Lab 7   
 
 #### Week 11: Cluster Sampling
 - Monday November 4: 
 - Wednesday November 6: 
-- Friday November 8: Lab 9    
+- Friday November 8: Lab 8    
 
 #### Week 12: Sampling with Unequal Probabilities
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: 
-- Friday November 15: Lab 10  
+- Friday November 15: Lab 9  
 
 #### Week 13: Bootstrap  
 - Monday November 18: 
