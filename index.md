@@ -76,10 +76,11 @@
 - Friday October 18: 
     - [Lab 5](https://stat446.github.io/Lab5/) ([R Markdown source code](https://github.com/stat446/Lab5/blob/master/Lab5_2019.Rmd))  
 
-#### Week 9: Stratified Sampling / Ratio & Regression Estimation
-- Monday October 21: Stratified Sampling / Ratio & Regression Estimation
+#### Week 9: Stratified Sampling / Ratio Estimation
+- Monday October 21: Stratified Sampling / Ratio Estimation
     - [Quiz 7 due](https://stat446.github.io/Quiz7/)
-- Wednesday October 23: Ratio & Regression Estimation
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture6/blob/master/Lecture6_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture6/blob/master/Lecture6_2019.Rmd))
+- Wednesday October 23: Ratio Estimation
 - Friday October 25:
     - Lab 6
     - HW 4 due
