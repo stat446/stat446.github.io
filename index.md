@@ -76,10 +76,13 @@
 - Friday October 18: 
     - [Lab 5](https://stat446.github.io/Lab5/) ([R Markdown source code](https://github.com/stat446/Lab5/blob/master/Lab5_2019.Rmd))  
 
-#### Week 9: Ratio & Regression Estimation
-- Monday October 21: Ratio & Regression Estimation
+#### Week 9: Stratified Sampling / Ratio & Regression Estimation
+- Monday October 21: Stratified Sampling / Ratio & Regression Estimation
+    - [Quiz 7 due](https://stat446.github.io/Quiz7/)
 - Wednesday October 23: Ratio & Regression Estimation
-- Friday October 25: Lab 6    
+- Friday October 25:
+    - Lab 6
+    - HW 4 due
 
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28: 
@@ -106,10 +109,10 @@
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
-#### Week 15: Presentations 
-- Monday December 2: Presentations
-- Wednesday December 4: Presentations
-- Friday December 6: Presentations
+#### Week 15:  
+- Monday December 2: 
+- Wednesday December 4: 
+- Friday December 6: 
 
 #### Week 15: Final Exam Week
 - Thursday December 12, 4:00 - 5:50: In Class Final 
