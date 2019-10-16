@@ -83,7 +83,7 @@
 - Wednesday October 23: Ratio Estimation
 - Friday October 25:
     - Lab 6
-    - HW 4 due
+    - [HW 4 due](https://github.com/stat446/HW4/blob/master/HW4_446.pdf) ([R Markdown Source Code](https://github.com/stat446/HW4/blob/master/HW4_446.Rmd))
 
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28: 
