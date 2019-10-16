@@ -88,25 +88,33 @@
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28: 
 - Wednesday October 30: 
-- Friday November 1: Lab 7   
+- Friday November 1: 
+    - Lab 7   
+    - HW 5 due
 
 #### Week 11: Cluster Sampling
 - Monday November 4: 
 - Wednesday November 6: 
-- Friday November 8: Lab 8    
+- Friday November 8: 
+    - Lab 8
+   
 
 #### Week 12: Sampling with Unequal Probabilities
 - Monday November 11: No Class Veteran's Day
-- Wednesday November 13: 
+- Wednesday November 13:
+     - HW 6 due
 - Friday November 15: Lab 9  
 
 #### Week 13: Bootstrap  
 - Monday November 18: 
 - Wednesday November 20:
-- Friday November 22: 
+- Friday November 22:
+
 
 #### Week 14:  
 - Monday November 25: 
+    - HW 7 due
+    - Lab 10
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
