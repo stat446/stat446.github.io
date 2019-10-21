@@ -82,7 +82,7 @@
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture6/blob/master/Lecture6_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture6/blob/master/Lecture6_2019.Rmd))
 - Wednesday October 23: Ratio Estimation
 - Friday October 25:
-    - Lab 6
+    - [Lab 6](https://stat446.github.io/Lab6/) ([R Markdown source code](https://github.com/stat446/Lab6/blob/master/Lab6_2019.Rmd))  
     - [HW 4 due](https://github.com/stat446/HW4/blob/master/HW4_446.pdf) ([R Markdown Source Code](https://github.com/stat446/HW4/blob/master/HW4_446.Rmd))
 
 #### Week 10: Ratio & Regression Estimation
