@@ -86,39 +86,41 @@
     - [HW 4 due](https://github.com/stat446/HW4/blob/master/HW4_446.pdf) ([R Markdown Source Code](https://github.com/stat446/HW4/blob/master/HW4_446.Rmd))
 
 #### Week 10: Ratio & Regression Estimation
-- Monday October 28: 
+- Monday October 28:
+    - Quiz 8 due
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.Rmd))
 - Wednesday October 30: 
 - Friday November 1: 
     - Lab 7   
     - HW 5 due
 
-#### Week 11: Cluster Sampling
+#### Week 11: Ratio & Regression Estimation
 - Monday November 4: 
 - Wednesday November 6: 
 - Friday November 8: 
     - Lab 8
    
 
-#### Week 12: Sampling with Unequal Probabilities
+#### Week 12: Cluster Sampling
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13:
      - HW 6 due
 - Friday November 15: Lab 9  
 
-#### Week 13: Bootstrap  
+#### Week 13:   Sampling with Unequal Probabilities
 - Monday November 18: 
 - Wednesday November 20:
 - Friday November 22:
 
 
-#### Week 14:  
+#### Week 14:  Sampling with Unequal Probabilities
 - Monday November 25: 
     - HW 7 due
     - Lab 10
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
-#### Week 15:  
+#### Week 15: Bootstrap
 - Monday December 2: 
 - Wednesday December 4: 
 - Friday December 6: 
