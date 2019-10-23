@@ -87,7 +87,7 @@
 
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28:
-    - Quiz 8 due
+    - [Quiz 8 due](https://stat446.github.io/Quiz8/)
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.Rmd))
 - Wednesday October 30: 
 - Friday November 1: 
