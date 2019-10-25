@@ -93,6 +93,7 @@
 - Friday November 1: 
     - Lab 7   
     - HW 5 due
+    - [Project Overview](https://github.com/stat446/Project/blob/master/ProjectOverview.pdf)
 
 #### Week 11: Ratio & Regression Estimation
 - Monday November 4: 
@@ -186,7 +187,7 @@ will be a large computational element in the labs.
 
 - **20%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including some short mathematical derivations. The take home portions will focus on analysis of data and implementation of Bayesian computational methods. 
 
-- **20%** of your grade will be determined by a project. There are two options for the project: carryout a sampling scheme to address a research question of your choosing or conduct a sampling scheme on a synthetic example. For original research, a proposal will be due no later than October 31. The final project will consist of written summary including an overview of the sampling design, and analysis of the data, and a summary of the results, as well as an in-class presentation.
+- **20%** of your grade will be determined by a project. There are two options for the project: carryout a sampling scheme to address a research question of your choosing or conduct a sampling scheme on a synthetic example. Additional details about the project can be found [here](https://github.com/stat446/Project/blob/master/ProjectOverview.pdf). The final project will consist of written summary including an overview of the sampling design, and analysis of the data, and a summary of the results, as well as an in-class presentation.
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
