@@ -92,7 +92,7 @@
 - Wednesday October 30: 
 - Friday November 1: 
     - Lab 7   
-    - HW 5 due
+    - [HW 5 due](https://stat446.github.io/HW5/)
     - [Project Overview](https://github.com/stat446/Project/blob/master/ProjectOverview.pdf)
 
 #### Week 11: Ratio & Regression Estimation
