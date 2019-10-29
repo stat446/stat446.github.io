@@ -83,7 +83,7 @@
 - Wednesday October 23: Ratio Estimation
 - Friday October 25:
     - [Lab 6](https://stat446.github.io/Lab6/) ([R Markdown source code](https://github.com/stat446/Lab6/blob/master/Lab6_2019.Rmd))  
-    - [HW 4 due](https://github.com/stat446/HW4/blob/master/HW4_446.pdf) ([R Markdown Source Code](https://github.com/stat446/HW4/blob/master/HW4_446.Rmd))
+    - [HW 4 due](https://github.com/stat446/HW4/blob/master/HW4_446.pdf) ([R Markdown Source Code](https://github.com/stat446/HW4/blob/master/HW4_446.Rmd)) ([Solution Key:PDF](https://github.com/stat446/HW4/blob/master/HW4_446key.pdf)) ([Solution Key:RMD](https://github.com/stat446/HW4/blob/master/HW4_446key.Rmd))
 
 #### Week 10: Ratio & Regression Estimation
 - Monday October 28:
