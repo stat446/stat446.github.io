@@ -91,7 +91,7 @@
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture7/blob/master/Lecture7_2019.Rmd))
 - Wednesday October 30: 
 - Friday November 1: 
-    - Lab 7   
+    - [Lab 7](https://stat446.github.io/Lab7/) ([R Markdown source code](https://github.com/stat446/Lab7/blob/master/Lab7_2019.Rmd))   
     - [HW 5 due](https://stat446.github.io/HW5/)
     - [Project Overview](https://github.com/stat446/Project/blob/master/ProjectOverview.pdf)
 
