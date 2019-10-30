@@ -96,7 +96,8 @@
     - [Project Overview](https://github.com/stat446/Project/blob/master/ProjectOverview.pdf)
 
 #### Week 11: Ratio & Regression Estimation
-- Monday November 4: 
+- Monday November 4:
+    - [Quiz 9 due](https://github.com/stat446/Quiz9/blob/master/Quiz9_446.pdf)
 - Wednesday November 6: 
 - Friday November 8: 
     - Lab 8
@@ -106,7 +107,7 @@
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13:
      - HW 6 due
-- Friday November 15: Lab 9  
+- Friday November 15:   
 
 #### Week 13:   Sampling with Unequal Probabilities
 - Monday November 18: 
@@ -117,7 +118,6 @@
 #### Week 14:  Sampling with Unequal Probabilities
 - Monday November 25: 
     - HW 7 due
-    - Lab 10
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
