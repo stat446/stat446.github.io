@@ -100,7 +100,7 @@
     - [Quiz 9 due](https://github.com/stat446/Quiz9/blob/master/Quiz9_446.pdf)
 - Wednesday November 6: 
 - Friday November 8: 
-    - Lab 8
+    - [Lab 8](https://github.com/stat446/Lab8/blob/master/Lab8_2019.pdf) ([R Markdown Source Code](https://github.com/stat446/Lab8/blob/master/Lab8_2019.Rmd))
    
 
 #### Week 12: Cluster Sampling
