@@ -107,10 +107,12 @@
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13:
      - [Weekly Lecture Notes](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.Rmd))
-- Friday November 15:   
+- Friday November 15:
+    - [HW 6 due](https://stat446.github.io/HW6/)
 
 #### Week 13:   Sampling with Unequal Probabilities
-- Monday November 18: 
+- Monday November 18:
+    - Quiz 10
 - Wednesday November 20:
 - Friday November 22:
 
