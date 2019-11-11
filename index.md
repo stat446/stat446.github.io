@@ -106,7 +106,7 @@
 #### Week 12: Cluster Sampling
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13:
-     - HW 6 due
+     - [Weekly Lecture Notes](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.Rmd))
 - Friday November 15:   
 
 #### Week 13:   Sampling with Unequal Probabilities
