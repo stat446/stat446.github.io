@@ -126,10 +126,12 @@
 #### Week 15: Bootstrap
 - Monday December 2: 
 - Wednesday December 4: 
-- Friday December 6: 
+- Friday December 6:
+    - Course Project Due
 
 #### Week 15: Final Exam Week
-- Thursday December 12, 4:00 - 5:50: In Class Final 
+- Thursday December 12, 4:00 - 5:50: In Class Final
+- Friday December 13, 8:00 AM: Take Home Final Due
 
 
 ### Course Description
