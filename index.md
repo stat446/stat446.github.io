@@ -108,17 +108,17 @@
 - Wednesday November 13:
      - [Weekly Lecture Notes](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture8/blob/master/Lecture8_2019.Rmd))
 - Friday November 15:
-    - [HW 6 due](https://stat446.github.io/HW6/)
 
 #### Week 13:   Sampling with Unequal Probabilities
-- Monday November 18:
+- Monday November 18: Cluster Sampling Lab
     - Quiz 10
+    - [HW 6 due](https://stat446.github.io/HW6/)
 - Wednesday November 20:
 - Friday November 22:
 
 
 #### Week 14:  Sampling with Unequal Probabilities
-- Monday November 25: 
+- Monday November 25: Lab
     - HW 7 due
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
@@ -126,7 +126,7 @@
 #### Week 15: Bootstrap
 - Monday December 2: 
 - Wednesday December 4: 
-- Friday December 6:
+- Friday December 6: Lab
     - Course Project Due
 
 #### Week 15: Final Exam Week
