@@ -110,11 +110,12 @@
 - Friday November 15:
 
 #### Week 13:   Sampling with Unequal Probabilities
-- Monday November 18: Cluster Sampling Lab
+- Monday November 18: 
+    - [Lab](https://stat446.github.io/Lab9/) ([R Markdown Source Code](https://github.com/stat446/Lab9/blob/master/Lab9_2019.Rmd))
     - [Quiz 10 due](https://stat446.github.io/Quiz10/)
     - [HW 6 due](https://stat446.github.io/HW6/)
-    - [Weekly Lecture Notes](https://github.com/stat446/Lecture9/blob/master/Lecture9_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture9/blob/master/Lecture9_2019.Rmd))
 - Wednesday November 20:
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture9/blob/master/Lecture9_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture9/blob/master/Lecture9_2019.Rmd))
 - Friday November 22:
 
 
