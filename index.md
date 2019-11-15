@@ -111,7 +111,7 @@
 
 #### Week 13:   Sampling with Unequal Probabilities
 - Monday November 18: Cluster Sampling Lab
-    - Quiz 10
+    - [Quiz 10 due](https://stat446.github.io/Quiz10/)
     - [HW 6 due](https://stat446.github.io/HW6/)
 - Wednesday November 20:
 - Friday November 22:
