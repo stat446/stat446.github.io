@@ -111,7 +111,7 @@
 
 #### Week 13:   Sampling with Unequal Probabilities
 - Monday November 18: 
-    - [Lab](https://stat446.github.io/Lab9/) ([R Markdown Source Code](https://github.com/stat446/Lab9/blob/master/Lab9_2019.Rmd))
+    - [Lab 9](https://stat446.github.io/Lab9/) ([R Markdown Source Code](https://github.com/stat446/Lab9/blob/master/Lab9_2019.Rmd))
     - [Quiz 10 due](https://stat446.github.io/Quiz10/)
     - [HW 6 due](https://stat446.github.io/HW6/)
 - Wednesday November 20:
@@ -120,7 +120,7 @@
 
 
 #### Week 14:  Sampling with Unequal Probabilities
-- Monday November 25: Lab
+- Monday November 25: [Lab 10](https://stat446.github.io/Lab10/) ([R Markdown Source Code](https://github.com/stat446/Lab10/blob/master/Lab10_2019.Rmd))
     - HW 7 due
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
