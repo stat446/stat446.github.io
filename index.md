@@ -121,14 +121,15 @@
 
 #### Week 14:  Sampling with Unequal Probabilities
 - Monday November 25: [Lab 10](https://stat446.github.io/Lab10/) ([R Markdown Source Code](https://github.com/stat446/Lab10/blob/master/Lab10_2019.Rmd))
-    - HW 7 due
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
 #### Week 15: Bootstrap
 - Monday December 2: 
+    - [Weekly Lecture Notes](https://github.com/stat446/Lecture10/blob/master/Lecture10_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture10/blob/master/Lecture10_2019.Rmd))
 - Wednesday December 4: 
-- Friday December 6: Lab
+- Friday December 6 
+    - Lab 10 
     - Course Project Due
 
 #### Week 15: Final Exam Week
