@@ -133,9 +133,11 @@
 - Friday December 6 
     - Lab 10 
     - Course Project Due
+    - Take Home Exam Assigned
 
 #### Week 15: Final Exam Week
 - Thursday December 12, 4:00 - 5:50: In Class Final
+    - OLD EXAMS ([2016 In Class](https://github.com/stat446/oldexams/blob/master/Inclass_final.pdf)) ([2016 Take Home](https://github.com/stat446/oldexams/blob/master/Takehome_final.pdf))
 - Friday December 13, 8:00 AM: Take Home Final Due
 
 
