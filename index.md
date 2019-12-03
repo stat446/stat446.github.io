@@ -131,7 +131,7 @@
     - [Weekly Lecture Notes](https://github.com/stat446/Lecture10/blob/master/Lecture10_2019.pdf) ([R Markdown source code](https://github.com/stat446/Lecture10/blob/master/Lecture10_2019.Rmd))
 - Wednesday December 4: 
 - Friday December 6 
-    - Lab 10 
+    - [Lab 11](https://stat446.github.io/Lab11/) ([R Markdown Source Code](https://github.com/stat446/Lab11/blob/master/Lab11_2019.Rmd)) 
     - Course Project Due
     - Take Home Exam Assigned
 
