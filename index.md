@@ -122,7 +122,7 @@
 #### Week 14:  Sampling with Unequal Probabilities
 - Monday November 25: 
     - [Quiz 11 due](https://stat446.github.io/Quiz11/)
-    - [Lab 10](https://stat446.github.io/Lab10/) ([R Markdown Source Code](https://github.com/stat446/Lab10/blob/master/Lab10_2019.Rmd))
+    - [Lab 10](https://stat446.github.io/Lab10/) ([R Markdown Source Code](https://github.com/stat446/Lab10/blob/master/Lab10_2019.Rmd)) ([Key](https://github.com/stat446/Lab10/blob/master/Lab10_2019Key.pdf))
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
