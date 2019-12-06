@@ -133,7 +133,7 @@
 - Friday December 6 
     - [Lab 11](https://stat446.github.io/Lab11/) ([R Markdown Source Code](https://github.com/stat446/Lab11/blob/master/Lab11_2019.Rmd)) 
     - Course Project Due
-    - Take Home Exam Assigned
+    - [Take Home Exam Assigned](https://github.com/stat446/final_exam/blob/master/final2019.pdf)([R Markdown Source Code](https://github.com/stat446/final_exam/blob/master/final2019.Rmd)
 
 #### Week 15: Final Exam Week
 - Thursday December 12, 4:00 - 5:50: In Class Final
